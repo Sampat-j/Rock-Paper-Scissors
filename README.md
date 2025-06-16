@@ -14,3 +14,9 @@ A simple and interactive Rock-Paper-Scissors game built using HTML, CSS, and Jav
   </li>
   <li>Scores are updated in real-time, and a message shows the result of each round.</li>
 </ol>
+<h3>Features</h3>
+<li>Real-time user vs. computer gameplay</li>
+<li>Score tracking for both user and computer</li>
+<li>Randomized computer choices</li>
+<li>Dynamic result messaging (Win, Lose, Draw)</li>
+<li>Clean, responsive UI with color-coded messages</li>
