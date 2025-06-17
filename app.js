@@ -28,7 +28,7 @@ const drawGame=()=>{
     }else{
        compScore++;
        compScorePara.innerText=compScore
-       msg.innerText=`You lose. ${compChoice} beats Your ${compChoice} `;
+       msg.innerText=`You lose. ${compChoice} beats Your ${userChoice} `;
        msg.style.backgroundColor="red";
     }
 
